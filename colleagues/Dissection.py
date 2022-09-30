@@ -69,13 +69,15 @@ def defineSection(i, division):
 
 #message = "Metod$Rasse4eni9-Razneseni9."
 #message = "Вечная беда России. Все в ней перепутано. Добро защищают дураки и мерзавцы, злу служат мученики и герои."
-
-message = input("Enter a message to encrypt: ")
+message = "МЕТОДяРАССЕЧЕНИЯ-РАЗНЕСЕНИЯ."
+# message = input("Enter a message to encrypt: ")
 strlength = len(message)
 print("Message length:", strlength)
 
-blocksNumber = int(input("Enter number of blocks. Must be less than message length: ")) #blocksNumber = 16
-ColKeysNumber = int(input("Enter number of columns (must be divisor of number of blocks; Message length must be divisible by it: ")) #ColKeysNumber = 8
+blocksNumber = 12
+ColKeysNumber = 4
+# blocksNumber = int(input("Enter number of blocks. Must be less than message length: ")) #blocksNumber = 16
+# ColKeysNumber = int(input("Enter number of columns (must be divisor of number of blocks; Message length must be divisible by it: ")) #ColKeysNumber = 8
 RowKeysNumber = int(blocksNumber/ColKeysNumber)
 
 print("Original message:", message + '\n')
