@@ -1,0 +1,15 @@
+D:\Education\3 Semester\infobez\KR\shleyfer\shleyfer\bin\Debug\net6.0\shleyfer.exe
+D:\Education\3 Semester\infobez\KR\shleyfer\shleyfer\bin\Debug\net6.0\shleyfer.deps.json
+D:\Education\3 Semester\infobez\KR\shleyfer\shleyfer\bin\Debug\net6.0\shleyfer.runtimeconfig.json
+D:\Education\3 Semester\infobez\KR\shleyfer\shleyfer\bin\Debug\net6.0\shleyfer.dll
+D:\Education\3 Semester\infobez\KR\shleyfer\shleyfer\bin\Debug\net6.0\shleyfer.pdb
+D:\Education\3 Semester\infobez\KR\shleyfer\shleyfer\obj\Debug\net6.0\shleyfer.csproj.AssemblyReference.cache
+D:\Education\3 Semester\infobez\KR\shleyfer\shleyfer\obj\Debug\net6.0\shleyfer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\3 Semester\infobez\KR\shleyfer\shleyfer\obj\Debug\net6.0\shleyfer.AssemblyInfoInputs.cache
+D:\Education\3 Semester\infobez\KR\shleyfer\shleyfer\obj\Debug\net6.0\shleyfer.AssemblyInfo.cs
+D:\Education\3 Semester\infobez\KR\shleyfer\shleyfer\obj\Debug\net6.0\shleyfer.csproj.CoreCompileInputs.cache
+D:\Education\3 Semester\infobez\KR\shleyfer\shleyfer\obj\Debug\net6.0\shleyfer.dll
+D:\Education\3 Semester\infobez\KR\shleyfer\shleyfer\obj\Debug\net6.0\refint\shleyfer.dll
+D:\Education\3 Semester\infobez\KR\shleyfer\shleyfer\obj\Debug\net6.0\shleyfer.pdb
+D:\Education\3 Semester\infobez\KR\shleyfer\shleyfer\obj\Debug\net6.0\shleyfer.genruntimeconfig.cache
+D:\Education\3 Semester\infobez\KR\shleyfer\shleyfer\obj\Debug\net6.0\ref\shleyfer.dll

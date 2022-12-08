@@ -1,0 +1,12 @@
+D:\Education\3 Semester\infobez\KR\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\GeometryTasks.deps.json
+D:\Education\3 Semester\infobez\KR\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\GeometryTasks.dll
+D:\Education\3 Semester\infobez\KR\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\GeometryTasks.pdb
+D:\Education\3 Semester\infobez\KR\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\GeometryTasks.csproj.AssemblyReference.cache
+D:\Education\3 Semester\infobez\KR\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\GeometryTasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\3 Semester\infobez\KR\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\GeometryTasks.AssemblyInfoInputs.cache
+D:\Education\3 Semester\infobez\KR\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\GeometryTasks.AssemblyInfo.cs
+D:\Education\3 Semester\infobez\KR\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\GeometryTasks.csproj.CoreCompileInputs.cache
+D:\Education\3 Semester\infobez\KR\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\GeometryTasks.dll
+D:\Education\3 Semester\infobez\KR\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\refint\GeometryTasks.dll
+D:\Education\3 Semester\infobez\KR\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\GeometryTasks.pdb
+D:\Education\3 Semester\infobez\KR\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ref\GeometryTasks.dll
