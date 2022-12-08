@@ -1,5 +1,9 @@
 /.vscode
 /venv
+*.docx
+*.xlsx
+_trashcan
+.devcontainer
 /lab_1/__pycache__
 /lab_1/documentation/lab_1.rar
 /lab_2/__pycache__

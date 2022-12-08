@@ -1,0 +1,7 @@
+Hamming Error-Correcting Code // dCode URL: https://www.dcode.fr/hamming-error-correction (дата обращения: 08.12.2022).
+
+https://www.cyberforum.ru/python-beginners/thread2238705.html
+
+vilisov/hamming_code.py // GitHub Gist URL: https://gist.github.com/vilisov/8278ad08700c89afde28 (дата обращения: 27.10.2022).
+https://www.cyberforum.ru/python-beginners/thread2238705.html
+What is the proper way to comment functions in Python? // stackoverflow URL: https://stackoverflow.com/questions/2357230/what-is-the-proper-way-to-comment-functions-in-python (дата обращения: nn.nn.2022).
